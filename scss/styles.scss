@@ -1,3 +1,4 @@
-﻿$primary-color: hotpink;
+﻿$primary-color: linear-gradient(to bottom, #fc00f8 0%, #7db9e8 100%);
 
-body { background-color: $primary-color; }
+html, body { height: 100%; }
+body { background: $primary-color; }
